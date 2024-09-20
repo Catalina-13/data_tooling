@@ -24,7 +24,7 @@ To run this application, you need the following:
 You can install the required packages using pip:
 
 ```bash
-pip install streamlit pandas matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 ## Dataset
