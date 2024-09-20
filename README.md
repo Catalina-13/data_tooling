@@ -64,7 +64,7 @@ For 2015 and 2016, the datasets should contain:
 To start the application, navigate to the project directory in your terminal and run:
 
 ```bash
-streamlit run app.py
+streamlit run world_happiness.py
 ```
 
 This will launch the Streamlit app in your web browser.
